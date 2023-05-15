@@ -20,7 +20,7 @@ export default function App() {
             <Stack.Screen 
               name= "Main"
               component={Main}
-              options={{ title: 'GetStated' }}
+              options={{ title: 'Get Started' }}
             />
           </Stack.Navigator>
       </NavigationContainer>
